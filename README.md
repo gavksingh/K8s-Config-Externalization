@@ -1,8 +1,7 @@
----
-title: "Externalizing config using MicroProfile, ConfigMaps and Secrets"
-content_type: tutorial
-weight: 10
----
+
+# "Externalizing config using MicroProfile, ConfigMaps and Secrets"
+
+
 
 <!-- overview -->
 
@@ -10,7 +9,7 @@ In this tutorial you will learn how and why to externalize your microservice’s
 Specifically, you will learn how to use Kubernetes ConfigMaps and Secrets to set environment variables and then consume them using MicroProfile Config.
 
 
-## {{% heading "prerequisites" %}}
+## Prerequisites
 
 Before starting, make sure you have the following prerequisites:
 
